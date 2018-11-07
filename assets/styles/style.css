@@ -1,12 +1,12 @@
 body {
-	background-image: url("../images/bg.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	font-family: 'Ultra', serif;
+		background-image: url(../images/bg.jpg);
+		margin: 25px;
+		font-family: 'Ultra', serif;
 }
 h1 {
 	color: black;
-	font-size: 20px;
+	font-family: 'Cardo', serif;
+	font-size: 25px;
 	shape-image-threshold: 
 	font-weight: lighter;
 	margin-bottom: 0;
@@ -16,21 +16,25 @@ h2 {
 	opacity: 0.7px;
 	font-size: 25px;
 	margin-top: 0;
-	font-family: 'Squada One', cursive;
+	font-family: 'Cardo', serif;
 
 }
 
 .bio {
-	color: ;
+	background-color: #FFDAB9 ;
 	opacity: 0.3px;
-	font-family: 'Allura', cursive;
+	font-family: 'Cardo', serif;
+	border: 15px #b47b31;
+	outline: 10px double #785221;
+	padding: 25px;
+	margin: 25px;
 }
 
 .me {
-	height: 200px;
+	height: 300px;
 	border-radius: 100%;
 	border-style: solid;
-	border-color: white;
+	border-color: #FFDAB9;
 	margin-top: 40px;
 
 }
